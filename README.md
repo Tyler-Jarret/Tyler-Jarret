@@ -1,18 +1,16 @@
-# begin initialization README.md
+**Computer:** `README.md initialized...Command Codes, Verified...Readme of Personal Profile, Subject: @Tyler-Jarret`
 
-> Computer: README.md initialized...Command Codes, Verified...Readme of Personal Profile, Subject: @Tyler-Jarret
+ **@Tyler-Jarret:** `Computer... Begin recording.`
 
-> @Tyler-Jarret: Computer... Begin recording. Stardate: 202101.021405-0500
-
-## Introductions
+**Stardate:** 202101.021450-0500
 
 Welcome to my personal Github page! Hope you enjoy the look around.
 
 Most of what you'll see here is my ongoing project to basically keep track of everything I come across. I will attempt basic coding but alas I am *most* familiar with **HTML**, **Javascript**, and **CSS**.
 
-## Notable Projects
+# Notable Projects
 
-### memoryAlpha
+## memoryAlpha
 
 - Description: *A Personal Knowledge Database*
 - Scope: *To hold and retain information discovered and thought notable, categorized and classified in a logical, but updatable manner.*
@@ -22,7 +20,7 @@ Most of what you'll see here is my ongoing project to basically keep track of ev
 	- *Community Plugins for Obsidian.md*
 	- :atom: *Atom*
 
-### The EPS Conduit
+## The EPS Conduit
 
 - Description: *A web-based frontend to various interests of mine.[^1]*
 - Status: *Public* (link to follow) #todo
@@ -30,9 +28,7 @@ Most of what you'll see here is my ongoing project to basically keep track of ev
 - Programs Utilized:
 	- :atom: *Atom*
 	- *[Obsidian.md](https://obsidian.md)*
-	- Github[^f71d2c77]
-
-[^f71d2c77]:
+	- Github
 
 - - -
 
