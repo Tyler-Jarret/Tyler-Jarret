@@ -1,6 +1,6 @@
 **Computer:** `README.md initialized...Command Codes, Verified...Readme of Personal Profile, Subject: @Tyler-Jarret`
 
- **@Tyler-Jarret:** `Computer... Begin recording.`
+**@Tyler-Jarret:** `Computer... Begin recording.`
 
 **Stardate:** 202101.021450-0500
 
