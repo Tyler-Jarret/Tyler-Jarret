@@ -22,7 +22,11 @@ Most of what you'll see here is my ongoing project to basically keep track of ev
 
 ## The EPS Conduit
 
+<<<<<<< HEAD
 ![EPS Conduit Logo](https://github.com/Tyler-Jarret/Tyler-Jarret/blob/main/Graphical%20Work/output/2021-01-02_EPSConduit_square_256px.png)
+=======
+![EPS Conduit Logo](https://github.com/Tyler-Jarret/Tyler-Jarret/blob/main/Graphical%20Work/output/2021-01-02_EPSConduit_square_2048px.png)
+>>>>>>> c5b93b5b721969d2ab3b8660498444a232731928
 
 - Description: *A web-based frontend to various interests of mine.[^1]*
 - Status: *Public* (link to follow) #todo
