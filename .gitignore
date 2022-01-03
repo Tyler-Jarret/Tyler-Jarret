@@ -1,6 +1,7 @@
 # Raw Image Files #
 ###################
 *.ai
+*.psd
 
 # Compiled source #
 ###################
