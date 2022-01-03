@@ -22,6 +22,8 @@ Most of what you'll see here is my ongoing project to basically keep track of ev
 
 ## The EPS Conduit
 
+![EPS Conduit Logo](/Graphical Work/output/2021-01-02_EPSConduit_square_2048px.png)
+
 - Description: *A web-based frontend to various interests of mine.[^1]*
 - Status: *Public* (link to follow) #todo
 - Scope: *To act as the web-based front end to various explorations into HTML, Javascript, CSS, and more. Done in the style of [LCARS](https://en.wikipedia.org/wiki/LCARS).*
