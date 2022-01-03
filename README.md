@@ -32,6 +32,4 @@ Most of what you'll see here is my ongoing project to basically keep track of ev
 	- *[Obsidian.md](https://obsidian.md)*
 	- Github
 
-- - -
-
 [^1]: Special Note: *Much of the information here is meant to be exploratory and pulled from other sources. Credit will be given and licenses mentioned from topic to topic.*
