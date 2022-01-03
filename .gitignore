@@ -1,3 +1,7 @@
+# Raw Image Files #
+###################
+*.ai
+
 # Compiled source #
 ###################
 *.com
